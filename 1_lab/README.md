@@ -13,3 +13,5 @@
     ![alt](Screenshot.png "Screenshot")
 
     iii. Стронено Jupyter Notebook, попрацював з різними комірками, написав пояснення до коду програми;
+    
+    iv. Результат виконання Jupyter Notebook знаходиться у файлі nb.ipynb;
